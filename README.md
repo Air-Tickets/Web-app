@@ -1,4 +1,4 @@
-# web-app
+# Web-app
 This is a web application that shows all the flights in chronological order. 
 
 The website was created using PHP, HTML, and CSS. 
