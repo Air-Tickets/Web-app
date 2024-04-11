@@ -1,0 +1,28 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: brown;
+    /* background-image: url('background.jpg');
+    background-size: cover;
+    width: 100%; */
+  }
+
+th, td, table {
+    border: 3px solid yellow;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#table {
+    display: flex;
+    width: 100%;
+}
+
+th, td {
+    color: black;
+    font-size: 50px;
+    text-align: left;
+}
+
